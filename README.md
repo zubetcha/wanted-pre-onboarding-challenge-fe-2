@@ -8,4 +8,4 @@
 
 ## 📚 과제
 
-배포한 페이지는 [여기](https://zubetcha.github.io/wanted-pre-onboarding-challenge-fe-2/global.html)에서 확인하실 수 있습니다.
+배포한 페이지는 [여기](https://zubetcha.github.io/wanted-pre-onboarding-challenge-fe-2)에서 확인하실 수 있습니다.
